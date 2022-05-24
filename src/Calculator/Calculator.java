@@ -8,9 +8,9 @@ public class Calculator {
 
     IntPredicate isPositive = y -> y > 0;
 
-    ISum sum = (x, y) -> x + y;
+    IOperation sum = (x, y) -> x + y;
 
-    ISubtraction subtract = (x, y) -> x - y;
+    IOperation subtract = (x, y) -> x - y;
 
     private Integer multiply(Integer n1, Integer n2) {
         return (isZero.test(n1) || isZero.test(n2)) ? 0 : isPositive.test(n2) ?
