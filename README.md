@@ -1,6 +1,6 @@
 # calculator-funtional-programming
 
-### All posible cases for the four basic arithmetic operations
+### Different test cases for the four basic arithmetic operations
 ![image](https://user-images.githubusercontent.com/76075911/169964483-1e045f5b-ef04-427a-a5d3-cf1ca20d37fb.png)
 
 ### Implementation
